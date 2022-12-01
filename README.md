@@ -15,6 +15,6 @@ Ref:  See enclosed workbook, worksheet entitled 'Successful US Kickstarters'
 The goals of the campaign can affect successful completion.  In analysis of Goals is can bee seen that Successful campaigns had a Mean Goal approximately $5,000, with successful campaigns having a Mean Pledged amout just a bit higher at approximately $5,600.  Conversly Failed campaigns set much loftier goals with a Mean Goal of approximately 10,500 and were matched wil a low Mean Pledged of $550.
 ![image](https://user-images.githubusercontent.com/119142416/205112961-e7aa4a30-646f-4428-83f0-db0c10caa072.png)
 
-Ref: Immage with description is taken from BCS: Module 1.5.4 classroom content.   A corresponding image and date can be found in the enclosed workbook, worksheet entitled 'Box & Whisker'.
+Ref: Immage with descriptions is taken from BCS: Module 1.5.4 classroom content.   A corresponding image and data can be found in the enclosed workbook, worksheet entitled 'Box & Whisker'.
 
 This analysis should help Louise to drive her campaign planning timeline as well as her goals.
