@@ -11,7 +11,7 @@ From an anlysis of theatre funding campaign we see that those launched in the mo
 
 Ref:  See enclosed workbook, worksheet entitled 'Successful US Kickstarters'
 
-### Goals
+## Goals
 The goals of the campaign can affect successful completion.  In analysis of Goals is can bee seen that Successful campaigns had a Mean Goal approximately $5,000, with successful campaigns having a Mean Pledged amout just a bit higher at approximately $5,600.  Conversly Failed campaigns set much loftier goals with a Mean Goal of approximately 10,500 and were matched wil a low Mean Pledged of $550.
 ![image](https://user-images.githubusercontent.com/119142416/205112961-e7aa4a30-646f-4428-83f0-db0c10caa072.png)
 
