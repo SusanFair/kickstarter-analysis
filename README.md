@@ -71,7 +71,8 @@ The analysis for successfull outcomes based on campaign goal sizes was a bit bro
 It should also be noted that the failed campaigns were the mirror image of the successful ones.
 
 The following chart will show clearly the overall results:
-![Outcomes vs Goals](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
+![Outcomes Success based on Launch Date](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Limitations of this dataset?
