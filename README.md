@@ -16,26 +16,40 @@ In the analysis based on launch date we viewed the data set by month of the camp
 Using a pivot table to narrow and filter the data and the accompanying chart we can clearly show the results of this analysis.
 
 Using the analysis tools at hand this project will provide Louise with the planning of her future campaign.
-The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter".
+
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Theater Outcomes by Launch Date".
 *   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
 
-The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
-- ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
-
-this this
-
+The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
 
 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+In the analysis based on campaign funding Goal sizes we viewed the data set by funding dollar amount within specified monitary ranges.  The scope of the analysis was theatrical plays campaigns which were successful over the complete timefame of the data available. Using the analysis tools at hand this project will provide Louise with the planning of her future campaign.
+
+Using a counting formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
+
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals".
+*   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
+The challenge in this analysis was the new formula for COUNTIFS where there were multiple criteria used to filter the count.  The provided video gave helpful guidance in creating the required filters.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions of analysis of Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
 
+
+### Conclusion of anlysis of Outcomes based on Goals?
+
+
+
+### Limitations of this dataset?
+
+
+
+
+### Options for further analysis
 - What are some other possible tables and/or graphs that we could create?
