@@ -24,6 +24,7 @@ The raw data can be found in the Excel workbook linked below on the workshet ent
 
 The goal ranges used were as follows:
 
+* Less than 1000
 * 1000 to 4999
 * 5000 to 9999
 * 10000 to 14999
@@ -36,13 +37,13 @@ The goal ranges used were as follows:
 * 45000 to 49999
 * 50000 or More
 
-### Challenges and Difficulties Encountered
-##### Analysis of Outcomes Based on Launch Date Challenges
+### Challenges and Difficulties Encountered :
+#### Challenges - Analysis of Outcomes Based on Launch Date
 The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
 
 ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
 
-##### Analysis of Outcomes Based on Goals Challenges
+#### Challenges - Analysis of Outcomes Based on Goals :
 The challenge in this analysis was the new formula for COUNTIFS where there were multiple criteria used to filter the count.  The provided video gave helpful guidance in creating the required filters.
 
 ## Results
