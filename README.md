@@ -1,20 +1,38 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarting with Excel
 
-## Purpose
-Louise an aspiring entrepreneur is wanting to start a campaign to fund a variety of entertainment opportunities.  She has asked us to perfor an analysis of previous funding campaigns.  In the review we are looking for success factors be they start months, duration and goals set for the campaigns.  From this analysis Louise will build her own funding campaign.
+## Overview of Project
+This project is an analysis performed for Louise.  She is a budding entrprenuure who is interesting in crowdfunding campaigns of verious types in the field of theatrical presentation.  While she started a campaign for a play "Fever" she is moving on with other adventures.  Wisely Louise is making decisions based on realiable and relevant historical data.
 
-## Analysis
-### Timing - What do we learn about start dates?
-From an anlysis of theatre funding campaign we see that those launched in the month of may were the most successful with June coming close.  While January, June, July and October had the most failed campaigns. 
+### Purpose
+As Louise moves to her next project we will provide her with specific analysis on results of different campaigns success factors based on lauch date.  Is there a better season or month?  Did campaigns in certain months have more success?
 
-![image](https://user-images.githubusercontent.com/119142416/205110933-c140bd3c-4493-4f70-8373-ef925870849f.png)
+Also Louise want more detailed analysis on the success factors based on the funding goals.  How much is too much?  Do larger goals increase or decrease the probability of a successful campaign.  Is there a sweet spot between low and higher goals that will give her a clearer pathway to a successful campaign.
 
-Ref:  See enclosed workbook, worksheet entitled 'Successful US Kickstarters'
+## Analysis and Challenges
 
-## Goals
-The goals of the campaign can affect successful completion.  In analysis of Goals is can bee seen that Successful campaigns had a Mean Goal approximately $5,000, with successful campaigns having a Mean Pledged amout just a bit higher at approximately $5,600.  Conversly Failed campaigns set much loftier goals with a Mean Goal of approximately 10,500 and were matched wil a low Mean Pledged of $550.
-![image](https://user-images.githubusercontent.com/119142416/205112961-e7aa4a30-646f-4428-83f0-db0c10caa072.png)
+### Analysis of Outcomes Based on Launch Date
+In the analysis based on launch date we viewed the data set by month of the campaign launch and looking at the "successful", "Failed", and "canceled" campaigns.  The scope of the analysis was theatrical campaigns over the complete timefame of the data available.
 
-Ref: Immage with descriptions is taken from BCS: Module 1.5.4 classroom content.   A corresponding image and data can be found in the enclosed workbook, worksheet entitled 'Box & Whisker'.
+Using a pivot table to narrow and filter the data and the accompanying chart we can clearly show the results of this analysis.
 
-This analysis should help Louise to drive her campaign planning timeline as well as her goals.
+Using the analysis tools at hand this project will provide Louise with the planning of her future campaign.
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter"
+100. https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
+The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
+
+
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
