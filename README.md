@@ -17,7 +17,7 @@ Using a pivot table to narrow and filter the data and the accompanying chart we 
 
 Using the analysis tools at hand this project will provide Louise with the planning of her future campaign.
 The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter"
-100. https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+*   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
 
 The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
 
