@@ -17,10 +17,11 @@ Using a pivot table to narrow and filter the data and the accompanying chart we 
 
 Using the analysis tools at hand this project will provide Louise with the planning of her future campaign.
 
-The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Theater Outcomes by Launch Date".
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Theater Outcomes by Launch Date".  This file can be downloaded.
 *   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
 
-The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
+The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
+               ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -30,20 +31,42 @@ In the analysis based on campaign funding Goal sizes we viewed the data set by f
 
 Using a counting formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
 
-The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals".
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals". This file can be downloaded.
 *   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
+The goal ranges used were as follows:
+* 1000 to 4999
+* 5000 to 9999
+* 10000 to 14999
+* 15000 to 19999
+* 20000 to 24999
+* 25000 to 29999
+* 30000 to 34999
+* 35000 to 39999
+* 40000 to 44999
+* 45000 to 49999
+* 50000 or More
 
 The challenge in this analysis was the new formula for COUNTIFS where there were multiple criteria used to filter the count.  The provided video gave helpful guidance in creating the required filters.
 
 ## Results
 
 ### Conclusions of analysis of Outcomes based on Launch Date?
+From the analysis we can see that Louise is on the right track!!  With the category of Theatre there were more Successful campaign in general that Failed and Canceled campaigns.  Looks like Theatre campaigns are hot right now!
 
+Other valuable conclusions can be made.  The campaigns that launched in the month of May had the highest number of successful campaigns.  This was closely followed by the months of June and then July.   
 
+It can also be noted that November and December had the lowest number of successful campaigns. 
 
+As a general notation, the months of May and June had the highest number of Successful campaings however they also had the highest number of Failed campaign.  In general those months simply had the highest number of campaigns overall.  Further analysis of other factors would therefore be necessary to discern specific success factors.
 
 ### Conclusion of anlysis of Outcomes based on Goals?
+The analysis for successfull outcomes based on campaign goal sizes was a bit broader.  Campaign goals below $1000 had high success rantes with 75% being successful.  However other ranges  saw similar rates with goals between 35000 to 39999 and 40000 to 44999 each have a success rate of 67%.  It was also evident that the higher ranges had distintcly lower success with ranges over 45000 having a success rate of under 14%.
 
+It should also be noted that the failed campaigns were the mirror image of the successful one.
+
+The following chart will show clearly the overall results:
+![Outcomes vs Goals](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Limitations of this dataset?
@@ -53,3 +76,4 @@ The challenge in this analysis was the new formula for COUNTIFS where there were
 
 ### Options for further analysis
 - What are some other possible tables and/or graphs that we could create?
+Since in the Theater Outcomes by Launch Date the months of May and just had the highest number of Successful campaings however they also had the highest number of Failed campaign.  An analysis of the highest % of campaigns per month would be an interesting analysis.  This would remove the prevelence of campaign starts and provide an actual success % by month.
