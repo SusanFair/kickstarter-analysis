@@ -61,6 +61,7 @@ It can also be noted that November and December had the lowest number of success
 As a general notation, the months of May and June had the highest number of Successful campaings however they also had the highest number of Failed campaign.  In general those months simply had the highest number of campaigns overall.  Further analysis of other factors would therefore be necessary to discern specific success factors.
 
 The following chart will show the overall results:
+
 ![Outcomes Success based on Launch Date](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
@@ -74,10 +75,13 @@ The following chart will show clearly the overall results:
 
 
 ### Limitations of this dataset?
-
+There are a few limitation of this dataset.
+* Current data - In the Theater category the most recent year of data is 2017 with only 31 campaigns in that year.  Having more current data, reflecting the current economy would be advisable to gain meaningful analysis.
 
 
 
 ### Options for further analysis
 - What are some other possible tables and/or graphs that we could create?
 Since in the Theater Outcomes by Launch Date the months of May and just had the highest number of Successful campaings however they also had the highest number of Failed campaign.  An analysis of the highest % of campaigns per month would be an interesting analysis.  This would remove the prevelence of campaign starts and provide an actual success % by month.
+
+Another interesting and possibly helpful analysis would be on the number of backers and how this affects the success or failure of campaigns.
