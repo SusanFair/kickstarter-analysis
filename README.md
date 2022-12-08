@@ -14,34 +14,36 @@ In the analysis based on launch date we viewed the data set by the month of the 
 The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Theater Outcomes by Launch Date".  This file can be downloaded.
 *   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
 
-### Chalenges
+
+### Analysis of Outcomes Based on Goals
+In the analysis based on campaign funding Goal sizes we sorted the data set by funding dollar amounts within specified monitary ranges. The scope of the analysis was theatrical play campaigns which were successful, failed or canceled over the complete timefame of the data available. Using the analysis tools at hand this project will provide Louise with guidance on the most successful campaign goal size for her future campaign. Using COUNTIFS formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
+
+The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals". This file can be downloaded.
+
+* https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
+#### Ranges
+The goal ranges used were as follows:
+
+1000 to 4999
+5000 to 9999
+10000 to 14999
+15000 to 19999
+20000 to 24999
+25000 to 29999
+30000 to 34999
+35000 to 39999
+40000 to 44999
+45000 to 49999
+50000 or More
+
+### Challenges and Difficulties Encountered
+## Analysis of Outcomes Based on Launch Date Challenges
 The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
 
 ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
 
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-In the analysis based on campaign funding Goal sizes we sorted the data set by funding dollar amounts within specified monitary ranges.  The scope of the analysis was theatrical play campaigns which were successful, failed or canceled over the complete timefame of the data available. Using the analysis tools at hand this project will provide Louise with guidance on the most successful campaign goal size for her future campaign. Using COUNTIFS formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
-
-The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals". This file can be downloaded.
-*   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
-
-The goal ranges used were as follows:
-* 1000 to 4999
-* 5000 to 9999
-* 10000 to 14999
-* 15000 to 19999
-* 20000 to 24999
-* 25000 to 29999
-* 30000 to 34999
-* 35000 to 39999
-* 40000 to 44999
-* 45000 to 49999
-* 50000 or More
-
-### Challenges
+### Analysis of Outcomes Based on Goals Challenges
 The challenge in this analysis was the new formula for COUNTIFS where there were multiple criteria used to filter the count.  The provided video gave helpful guidance in creating the required filters.
 
 ## Results
