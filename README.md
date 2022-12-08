@@ -22,7 +22,7 @@ The raw data can be found in the Excel workbook linked below on the workshet ent
 The challenge of drilling down to months instead of years was solved by adjusting the rows category in the PivotTable Fields configuration. 
 - ![PivotTable Rows field](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/PivotTable_Field_Config.PNG)
 
-
+this this
 
 
 
