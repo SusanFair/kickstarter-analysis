@@ -62,7 +62,7 @@ As a general notation, the months of May and June had the highest number of Succ
 
 The following chart will show the overall results:
 
-![Outcomes Success based on Launch Date](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes Success based on Launch Date](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch_final.png)
 
 
 ### Conclusion of anlysis of Outcomes based on Goals?
