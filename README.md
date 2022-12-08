@@ -59,11 +59,12 @@ Other valuable conclusions can be made.  The campaigns that launched in the mont
 It can also be noted that November and December had the lowest number of successful campaigns. 
 
 As a general notation, the months of May and June had the highest number of Successful campaings however they also had the highest number of Failed campaign.  In general those months simply had the highest number of campaigns overall.  Further analysis of other factors would therefore be necessary to discern specific success factors.
+![Outcomes Success based on Launch Date](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Conclusion of anlysis of Outcomes based on Goals?
 The analysis for successfull outcomes based on campaign goal sizes was a bit broader.  Campaign goals below $1000 had high success rantes with 75% being successful.  However other ranges  saw similar rates with goals between 35000 to 39999 and 40000 to 44999 each have a success rate of 67%.  It was also evident that the higher ranges had distintcly lower success with ranges over 45000 having a success rate of under 14%.
 
-It should also be noted that the failed campaigns were the mirror image of the successful one.
+It should also be noted that the failed campaigns were the mirror image of the successful ones.
 
 The following chart will show clearly the overall results:
 ![Outcomes vs Goals](https://github.com/SusanFair/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
