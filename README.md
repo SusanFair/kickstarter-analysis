@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project is an analysis performed for Louise.  She is a budding entrprenuure who is interesting in crowdfunding campaigns of verious types in the field of theatrical presentations.  While she started a campaign for a play called "Fever", she is now moving on with other adventures.  Wisely Louise is making decisions based on realiable and relevant historical data.  A database of previous campaign has been assembled to be used as a basis for the analysis.
+This project is an analysis performed for Louise.  She is a budding entrprenuure who is interesting in crowdfunding campaigns of verious types in the field of theatrical presentations.  While she started a campaign for a play called "Fever", she is now moving on with other adventures.  Wisely Louise is making decisions based on realiable and relevant historical data.  A database of previous campaign has been assembled to be used as a basis for the analysis. She has asked us to perform an analysis on this data to provide insights for her future campaign.
 
 ### Purpose
 As Louise moves to her next project we will provide her with specific analysis on results of different campaigns' success factors based on campaign lauch date.  Is there a better season or month to start a campaign?  Did campaigns in certain months have more success? Also Louise wants more detailed analysis on the success factors based on the funding goals of previous campaigns.  How much is too much?  Do larger goals increase or decrease the probability of a successful campaign.  Is there a sweet spot between lower and higher goals that will give her a clearer pathway to a successful campaign.
@@ -49,7 +49,7 @@ The challenge in this analysis was the new formula for COUNTIFS where there were
 ## Results
 
 ### Conclusions of analysis of Outcomes based on Launch Date?
-From the analysis we can see that Louise is on the right track!!  Using event category of Theatre there were more Successful campaigns in general than Failed and Canceled campaigns.  Looks like Theatre campaigns are hot right now!
+From the analysis we can see that Louise is on the right track!!  Using the event category of Theatre there were more Successful campaigns in general than Failed and Canceled campaigns.  Looks like Theatre campaigns are hot right now!
 
 Other valuable conclusions can be made.  The campaigns that launched in the month of May had the highest number of successful campaigns.  This was closely followed by the months of June and then July.  It can also be noted that November and December had the lowest number of successful campaigns. 
 
@@ -61,7 +61,7 @@ The following chart will show the overall results:
 
 
 ### Conclusion of anlysis of Outcomes based on Goals?
-The analysis for successfull outcomes based on campaign goal sizes was a bit broader.  Campaign goals below $1000 had high success rates with 75% being successful.  However other ranges  saw similar rates with goals between 35000 to 39999 and 40000 to 44999 each having a success rate of 67%.  It would then be concluded that either lower goals (less than $1000) or midrange goals (between $35000 and $49999) would have the highest changes of success.  It was also evident that the higher dollar ranges had distintcly lower success, with ranges over 45000 having a success rate of less than 14%. It should also be noted that the failed campaigns were the mirror image of the successful ones.
+The analysis for successfull outcomes based on campaign goal sizes was a bit broader.  Campaign goals below $1000 had high success rates with 75% being successful.  However other ranges saw similar rates with goals between 35000 to 39999 and 40000 to 44999 each having a success rate of 67%.  It could then be concluded that either lower goals (less than $1000) or midrange goals (between $35000 and $49999) would have the highest chances of success.  It was also evident that the higher dollar ranges of goals had distintcly lower success, with ranges over 45000 having a success rate of less than 14%. It can also be noted that the failed campaigns were the mirror image of the successful ones.
 
 The following chart will show clearly the overall results:
 
