@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project is an analysis performed for Louise.  She is a budding entrprenuure who is interesting in crowdfunding campaigns of verious types in the field of theatrical presentations.  While she started a campaign for a play called "Fever", she is now moving on with other adventures.  Wisely Louise is making decisions based on realiable and relevant historical data.  A database of previous campaign has been assembled to be used as a basis for the analysis. She has asked us to perform an analysis on this data to provide insights for her future campaign.
+This project is an analysis performed for Louise.  She is a budding entrprenuure who is interested in crowdfunding campaigns of verious types in the field of theatrical presentations.  While she started a campaign for a play called "Fever", she is now moving on with other adventures.  Wisely Louise is making decisions based on realiable and relevant historical data.  A database of previous campaigns has been assembled to be used as a basis for the analysis. She has asked us to perform an analysis on this data to provide insights for her future campaign.
 
 ### Purpose
 As Louise moves to her next project we will provide her with specific analysis on results of different campaigns' success factors based on campaign lauch date.  Is there a better season or month to start a campaign?  Did campaigns in certain months have more success? Also Louise wants more detailed analysis on the success factors based on the funding goals of previous campaigns.  How much is too much?  Do larger goals increase or decrease the probability of a successful campaign.  Is there a sweet spot between lower and higher goals that will give her a clearer pathway to a successful campaign.
@@ -9,14 +9,14 @@ As Louise moves to her next project we will provide her with specific analysis o
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-In the analysis based on launch date we viewed the data set by the month of the campaign launch and looked at the "successful", "Failed", and "canceled" campaigns.  The scope of the analysis was theatrical campaigns over the complete timefame of the data available. Using a pivot table to narrow and filter the data and the accompanying chart we can clearly show the results of this analysis. Using these results we can provide Louise with the planning information to help her with her future campaign.
+In the analysis based on launch date we viewed the data set by the month of the campaign launch and looked at the "Successful", "Failed", and "Canceled" campaigns.  The scope of the analysis was theatrical campaigns over the complete timefame of the data available. Using a pivot table to narrow and filter the data and the accompanying chart we can clearly show the results of this analysis. Using these results we can provide Louise with the planning information to help her with her future campaign.
 
 The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Theater Outcomes by Launch Date".  This file can be downloaded.
 *   https://github.com/SusanFair/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
 
 
 ### Analysis of Outcomes Based on Goals
-In the analysis based on campaign funding Goal sizes we sorted the data set by funding dollar amounts within specified monitary ranges. The scope of the analysis was theatrical play campaigns which were successful, failed or canceled over the complete timefame of the data available. Using the analysis tools at hand this project will provide Louise with guidance on the most successful campaign goal size for her future campaign. Using COUNTIFS formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
+In the analysis based on campaign funding Goal sizes we sorted the data set by funding dollar amounts within specified monitary ranges. The scope of the analysis was theatrical play campaigns which were Successful, Failed or canceled over the complete timefame of the data available. Using the analysis tools at hand this project will provide Louise with guidance on the most successful campaign goal size for her future campaign. Using COUNTIFS formulas to narrow and filter the data we derived a table and the accompanying chart so as to clearly show the results of this analysis.
 
 The raw data can be found in the Excel workbook linked below on the workshet entitled "Kickstarter". The data Analysis can be found on the worksheet entitled "Outcomes Based on Goals". This file can be downloaded.
 
@@ -49,9 +49,9 @@ The challenge in this analysis was the new formula for COUNTIFS where there were
 ## Results
 
 ### Conclusions of analysis of Outcomes based on Launch Date?
-From the analysis we can see that Louise is on the right track!!  Using the event category of Theatre there were more Successful campaigns in general than Failed and Canceled campaigns.  Looks like Theatre campaigns are hot right now!
+From the analysis we can see that Louise is on the right track!!  Using the event category of Theatre there were more Successful campaigns than Failed or Canceled campaigns.  Looks like Theatre campaigns are hot right now!
 
-Other valuable conclusions can be made.  The campaigns that launched in the month of May had the highest number of successful campaigns.  This was closely followed by the months of June and then July.  It can also be noted that November and December had the lowest number of successful campaigns. 
+Other valuable conclusions can be made.  The campaigns that launched in the month of May had the highest number of successful campaigns.  This was closely followed by the months of June and July.  It can also be noted that November and December had the lowest number of successful campaigns. 
 
 As a general observation, the months of May and June had the highest number of Successful campaings however they also had the highest number of Failed campaigns.  In general those months simply had the highest number of campaigns overall.  Further analysis of other factors would therefore be necessary to discern specific success factors.
 
